@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Cloud Computing and AI**
 
-- 🤝 I’m looking for help with **AIML**
+- 🤝 I’m looking for help with **Backend**
 
 - 💬 Ask me about **Full Stack Dev, Cloud Computing, DSA, ML, Graphic Designing**
 
