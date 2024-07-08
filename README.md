@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanishka Saraswat</h1>
 <h3 align="center">A passionate software developer from India</h3> 
-<a href="https://ibb.co/vDMrBVV"><img align="right" src="https://i.ibb.co/nRKV066/7oey-EEu-C8e-Ygr-Dio9-AXB-1-aswf4.jpg" alt="7oey-EEu-C8e-Ygr-Dio9-AXB-1-aswf4" width="450" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
+<a href="https://ibb.co/vDMrBVV"><img align="right" src="https://i.ibb.co/nRKV066/7oey-EEu-C8e-Ygr-Dio9-AXB-1-aswf4.jpg" alt="7oey-EEu-C8e-Ygr-Dio9-AXB-1-aswf4" width="400" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
 - 🔭 I’m currently working on <b>EcoParali</b>
 
 - 🌱 I’m currently learning **Cloud Computing and AI**
