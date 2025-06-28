@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tanishka Saraswat</h1>
 <h3 align="center">A passionate software developer from India</h3> 
 <a href="https://ibb.co/vDMrBVV"><img align="right" src="https://i.ibb.co/nRKV066/7oey-EEu-C8e-Ygr-Dio9-AXB-1-aswf4.jpg" alt="7oey-EEu-C8e-Ygr-Dio9-AXB-1-aswf4" width="400" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'></a><br />
-- 🔭 I’m currently working on <b>EcoParali</b>
+- 🔭 I’m currently working on <b>Saathi</b>
 
 - 🌱 I’m currently learning **Cloud Computing and AI**
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **tanishkasaraswat6@gmail.com**
 
-- ⚡ Fun fact: **I love singing but these coded rhymes make me crazy sometimes (okay fine always)**
+- ⚡ Fun fact: **I love singing, but these coded rhymes make me crazy sometimes (okay fine always)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
